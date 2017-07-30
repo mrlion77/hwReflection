@@ -2,7 +2,6 @@ package com.gmail.tarkhanov.lev.reflection;
 
 import com.gmail.tarkhanov.lev.reflection.dto.Person;
 import com.gmail.tarkhanov.lev.reflection.service.JsonConverter;
-
 import java.time.LocalDate;
 
 /**
